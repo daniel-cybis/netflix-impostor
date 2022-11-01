@@ -166,3 +166,7 @@ body::before {
 .terms a:hover {
     text-decoration: underline;
 }
+
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:100%; } */
+}
